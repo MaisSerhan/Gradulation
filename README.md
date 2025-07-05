@@ -1,4 +1,4 @@
-# 🌐 Mais Sarhan - Personal Website
+# 🌐 Haven - Mother and Father Website
 
 Welcome to my personal website! This project is a complete 10-page responsive portfolio designed and developed using **HTML5**, **CSS3**, and a little bit of JavaScript for interactivity.
 
@@ -49,28 +49,6 @@ To showcase my skills, services, academic background, and portfolio projects in 
 - JavaScript (toggle menu, FAQ)
 
 ---
-
-## 📷 Screenshots
-
-![screenshot](Assets/images/preview.png)
-
----
-
-## 📬 Contact
-
-- ✉️ Email: [maisserhan09@gmail.com](mailto:maisserhan09@gmail.com)
-- 💼 GitHub: [MaisSerhan](https://github.com/MaisSerhan)
-
----
-
-## 🌟 Live Demo (Optional)
-
-> If you enable GitHub Pages, include this:
-
-**🌍 Live Site:** [mais-sarhan-website](https://maisserhan.github.io/mais-sarhan-website)
-
----
-
 ## 📜 License
 
 This project is licensed for educational and personal portfolio use.
